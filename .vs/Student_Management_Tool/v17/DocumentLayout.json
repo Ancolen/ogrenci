@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\student_management_tool\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\student_management_tool\\formupdatestudent\u0130nfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formupdatestudent\u0130nfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\student_management_tool\\formliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formnot\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formnot\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\student_management_tool\\formgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\student_management_tool\\formanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\form\u00F6\u011Frencisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\form\u00F6\u011Frencisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\migrations\\20241209095634_ili\u015Fkler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\migrations\\20241209095634_ili\u015Fkler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\migrations\\studentmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\migrations\\studentmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\migrations\\20241209092815_lessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\migrations\\20241209092815_lessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\migrations\\20241121102415_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\migrations\\20241121102415_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\data\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\data\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formgiri\u015F.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formgiri\u015F.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\models\\departmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\models\\departmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formnot\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formnot\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formupdatestudent\u0130nfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formupdatestudent\u0130nfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formanamenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formanamenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|c:\\users\\merti\\source\\repos\\student_management_tool\\student_management_tool\\formliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0CA2E2-1036-4996-87BA-FF9C5CBB3B6C}|Student_Management_Tool\\Student_Management_Tool.csproj|solutionrelative:student_management_tool\\formliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form\u00D6\u011FrenciSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Form\u00D6\u011FrenciSil.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Form\u00D6\u011FrenciSil.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Form\u00D6\u011FrenciSil.cs [Design]",
+              "RelativeToolTip": "Student_Management_Tool\\Form\u00D6\u011FrenciSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:21:53.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGiri\u015F.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormGiri\u015F.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormGiri\u015F.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormGiri\u015F.cs [Design]",
+              "RelativeToolTip": "Student_Management_Tool\\FormGiri\u015F.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:28:22.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Models\\Student.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:28:00.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormListStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormListStudents.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormListStudents.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormListStudents.cs [Design]",
+              "RelativeToolTip": "Student_Management_Tool\\FormListStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:17:22.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentManagementContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\StudentManagementContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Migrations\\StudentManagementContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\StudentManagementContextModelSnapshot.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Migrations\\StudentManagementContextModelSnapshot.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:17:26.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241121102415_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\20241121102415_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Migrations\\20241121102415_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\20241121102415_InitialCreate.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Migrations\\20241121102415_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:17:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAddStudent.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormAddStudent.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAddStudent.cs [Design]",
+              "RelativeToolTip": "Student_Management_Tool\\FormAddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:50:15.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAnaMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAnaMenu.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormAnaMenu.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAnaMenu.cs [Design]",
+              "RelativeToolTip": "Student_Management_Tool\\FormAnaMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:04:27.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormNot\u0130\u015Flemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs [Design]",
+              "RelativeToolTip": "Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:19:57.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUpdateStudent\u0130nfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs [Design]",
+              "RelativeToolTip": "Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:51:32.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAddStudent.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormAddStudent.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAddStudent.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormAddStudent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:53:57.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Models\\Lesson.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:04:53.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormGiri\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormGiri\u015F.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormGiri\u015F.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormGiri\u015F.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormGiri\u015F.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:53:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241209092815_lessons.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\20241209092815_lessons.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Migrations\\20241209092815_lessons.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\20241209092815_lessons.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Migrations\\20241209092815_lessons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:38:31.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241209095634_ili\u015Fkler.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\20241209095634_ili\u015Fkler.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Migrations\\20241209095634_ili\u015Fkler.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Migrations\\20241209095634_ili\u015Fkler.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Migrations\\20241209095634_ili\u015Fkler.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:38:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormGiri\u015F.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormGiri\u015F.Designer.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormGiri\u015F.Designer.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormGiri\u015F.Designer.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormGiri\u015F.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:28:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Data\\StudentManagementContext.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Data\\StudentManagementContext.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Data\\StudentManagementContext.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Data\\StudentManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:31:30.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Data\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Data\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Data\\DatabaseConfig.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Data\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:36:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentData.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Models\\DepartmentData.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Models\\DepartmentData.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Models\\DepartmentData.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Models\\DepartmentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:06:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormNot\u0130\u015Flemleri.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormNot\u0130\u015Flemleri.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:01:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Program.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Program.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:37:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAnaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAnaMenu.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormAnaMenu.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAnaMenu.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormAnaMenu.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:38:25.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Student_Management_Tool\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:16:16.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormUpdateStudent\u0130nfo.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormUpdateStudent\u0130nfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwD4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:53:25.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormListStudents.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormListStudents.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormListStudents.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormListStudents.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormListStudents.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwCMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:59:06.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormAnaMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAnaMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Student_Management_Tool\\FormAnaMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\Student_Management_Tool\\Student_Management_Tool\\FormAnaMenu.Designer.cs",
+              "RelativeToolTip": "Student_Management_Tool\\FormAnaMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:37:41.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
