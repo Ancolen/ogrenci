@@ -15,7 +15,7 @@ namespace Student_Management_Tool
 {
     public partial class FormNotİşlemleri : Form
     {
-        private Student student { get; set; }
+        private Öğrenci Ogrenci { get; set; }
 
         private readonly StudentManagementContext _context;
         public FormNotİşlemleri(StudentManagementContext _context)
@@ -31,9 +31,9 @@ namespace Student_Management_Tool
 
         private void button1_Click(object sender, EventArgs e)
         {
-            student.Lessons[0].LessonNote = Convert.ToInt32(textBox2.Text);
-            student.Lessons[1].LessonNote = Convert.ToInt32(textBox3.Text);
-            student.Lessons[2].LessonNote = Convert.ToInt32(textBox4.Text);
+            Ogrenci.Dersler[0].NotVize = Convert.ToInt32(textBox2.Text);
+            Ogrenci.Dersler[1].NotVize = Convert.ToInt32(textBox3.Text);
+            Ogrenci.Dersler[2].NotVize = Convert.ToInt32(textBox4.Text);
             _context.SaveChanges();
             MessageBox.Show("Notlar başarıyla güncellendi.");
             getData();
@@ -43,18 +43,18 @@ namespace Student_Management_Tool
             int studentnbr;
             if (int.TryParse(textBox1.Text, out studentnbr))
             {
-                student = _context.Students.Include(s => s.Lessons)
-                    .FirstOrDefault(x => x.StudentNbr == studentnbr);
-                if (student != null)
+                Ogrenci = _context.Ogrenciler.Include(s => s.Dersler)
+                    .FirstOrDefault(x => x.OgrenciNumarasi == studentnbr);
+                if (Ogrenci != null)
                 {
-                    var lessonList = student.Lessons.Select(lesson => new
+                    var lessonList = Ogrenci.Dersler.Select(lesson => new
                     {
-                        StudentName = student.Name,
-                        StudentNbr = student.StudentNbr,
-                        LessonName = lesson.LessonName,
-                        LessonGrade = lesson.LessonNote
+                        StudentName = Ogrenci.Isim,
+                        StudentNbr = Ogrenci.OgrenciNumarasi,
+                        LessonName = lesson.DersAdi,
+                        LessonGrade = lesson.NotVize,
                     }).ToList();
-                    dataGridView1.DataSource = lessonList;
+                    dataGridView2.DataSource = lessonList;
                     label2.Text = lessonList[0].LessonName.ToString();
                     label3.Text = lessonList[1].LessonName.ToString();
                     label4.Text = lessonList[2].LessonName.ToString();

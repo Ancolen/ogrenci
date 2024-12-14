@@ -12,8 +12,8 @@ namespace Student_Management_Tool.Data
     public class StudentManagementContext : DbContext
     {
         public StudentManagementContext(DbContextOptions<StudentManagementContext> options) : base(options) { }
-        public DbSet<Student> Students { get; set; }
-        public DbSet<Lesson> Lessons { get; set; }
+        public DbSet<Öğrenci> Ogrenciler { get; set; }
+        public DbSet<Ders> Dersler { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(DatabaseConfig.ConnectionString);
@@ -21,10 +21,10 @@ namespace Student_Management_Tool.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Student>()
-                .HasMany(s => s.Lessons)
-                .WithOne(l => l.Student)
-                .HasForeignKey(l => l.StudentId);
+            modelBuilder.Entity<Öğrenci>()
+                .HasMany(s => s.Dersler)
+                .WithOne(l => l.Öğrenci)
+                .HasForeignKey(l => l.OgrenciId);
         }
     } 
 }

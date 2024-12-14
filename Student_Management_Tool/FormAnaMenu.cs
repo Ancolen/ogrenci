@@ -15,24 +15,26 @@ namespace Student_Management_Tool
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FormAddStudent formAddStudent = new FormAddStudent(this._context);
+            FormÖðrenciEkle formAddStudent = new FormÖðrenciEkle(this._context);
             formAddStudent.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            FormListStudents formListStudents = new FormListStudents(this._context);
+            FormÖðrenciListele formListStudents = new FormÖðrenciListele(this._context);
             formListStudents.Show();
         }
 
         private void buttonBilgiGüncelle_Click(object sender, EventArgs e)
         {
-            FormUpdateStudentÝnfo formUpdateÝnfo = new FormUpdateStudentÝnfo(this._context);
+            FormÖðrenciBilgiGüncelleme formUpdateÝnfo = new FormÖðrenciBilgiGüncelleme(this._context);
             formUpdateÝnfo.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            FormÖðrenciSil formÖðrenciSil = new FormÖðrenciSil(this._context);
+            formÖðrenciSil.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)

@@ -128,7 +128,6 @@ C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\bin\
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.csproj.AssemblyReference.cache
-C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormAddStudent.resources
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.csproj.GenerateResource.cache
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.AssemblyInfoInputs.cache
@@ -140,9 +139,11 @@ C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.pdb
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.genruntimeconfig.cache
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\ref\Student_Management_Tool.dll
-C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormListStudents.resources
-C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormUpdateStudentİnfo.resources
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormNotİşlemleri.resources
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormGiriş.resources
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.Properties.Resources.resources
 C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormAnaMenu.resources
+C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormÖğrenciSil.resources
+C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormÖğrenciBilgiGüncelleme.resources
+C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormÖğrenciEkle.resources
+C:\Users\merti\source\repos\Student_Management_Tool\Student_Management_Tool\obj\Debug\net8.0-windows\Student_Management_Tool.FormÖğrenciListele.resources

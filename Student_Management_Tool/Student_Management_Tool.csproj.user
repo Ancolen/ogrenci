@@ -4,19 +4,19 @@
     <Compile Update="FormAnaMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddStudent.cs">
+    <Compile Update="FormÖğrenciEkle.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FormGiriş.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormListStudents.cs">
+    <Compile Update="FormÖğrenciListele.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FormNotİşlemleri.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormUpdateStudentİnfo.cs">
+    <Compile Update="FormÖğrenciBilgiGüncelleme.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FormÖğrenciSil.cs">

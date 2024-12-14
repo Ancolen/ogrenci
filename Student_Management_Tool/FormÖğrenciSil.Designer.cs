@@ -28,12 +28,74 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "FormÖğrenciSil";
+            label1 = new Label();
+            label2 = new Label();
+            button1 = new Button();
+            textBox1 = new TextBox();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 162);
+            label1.Location = new Point(105, 159);
+            label1.Name = "label1";
+            label1.Size = new Size(210, 25);
+            label1.TabIndex = 0;
+            label1.Text = "Öğrenci Numasını Girin";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 162);
+            label2.Location = new Point(59, 62);
+            label2.Name = "label2";
+            label2.Size = new Size(306, 37);
+            label2.TabIndex = 1;
+            label2.Text = "ÖĞRENCİ SİLME EKRANI";
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.FromArgb(0, 0, 64);
+            button1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(151, 253);
+            button1.Name = "button1";
+            button1.Size = new Size(119, 43);
+            button1.TabIndex = 2;
+            button1.Text = "SİL";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(87, 206);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(253, 23);
+            textBox1.TabIndex = 7;
+            // 
+            // FormÖğrenciSil
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ControlLightLight;
+            ClientSize = new Size(426, 336);
+            Controls.Add(textBox1);
+            Controls.Add(button1);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Name = "FormÖğrenciSil";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "FormÖğrenciSil";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label1;
+        private Label label2;
+        private Button button1;
+        private TextBox textBox1;
     }
 }

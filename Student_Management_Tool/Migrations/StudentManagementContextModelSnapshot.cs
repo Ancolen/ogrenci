@@ -22,7 +22,7 @@ namespace Student_Management_Tool.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Student_Management_Tool.Models.Lesson", b =>
+            modelBuilder.Entity("Student_Management_Tool.Models.Ders", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,24 +30,27 @@ namespace Student_Management_Tool.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("LessonName")
+                    b.Property<string>("DersAdi")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("LessonNote")
+                    b.Property<int>("NotFinal")
                         .HasColumnType("int");
 
-                    b.Property<int>("StudentId")
+                    b.Property<int>("NotVize")
+                        .HasColumnType("int");
+
+                    b.Property<int>("OgrenciId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("StudentId");
+                    b.HasIndex("OgrenciId");
 
                     b.ToTable("Lessons");
                 });
 
-            modelBuilder.Entity("Student_Management_Tool.Models.Student", b =>
+            modelBuilder.Entity("Student_Management_Tool.Models.Öğrenci", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -61,19 +64,23 @@ namespace Student_Management_Tool.Migrations
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Name")
+                    b.Property<byte[]>("Fotoğraf")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<string>("Isim")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Phone")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("RegistredDate")
+                    b.Property<DateTime>("KayitTarihi")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("StudentNbr")
+                    b.Property<int>("OgrenciNumarasi")
                         .HasColumnType("int");
 
-                    b.Property<string>("Surname")
+                    b.Property<string>("Soyisim")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("TelefonNumarasi")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -81,20 +88,20 @@ namespace Student_Management_Tool.Migrations
                     b.ToTable("Students");
                 });
 
-            modelBuilder.Entity("Student_Management_Tool.Models.Lesson", b =>
+            modelBuilder.Entity("Student_Management_Tool.Models.Ders", b =>
                 {
-                    b.HasOne("Student_Management_Tool.Models.Student", "Student")
-                        .WithMany("Lessons")
-                        .HasForeignKey("StudentId")
+                    b.HasOne("Student_Management_Tool.Models.Öğrenci", "Öğrenci")
+                        .WithMany("Dersler")
+                        .HasForeignKey("OgrenciId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Student");
+                    b.Navigation("Öğrenci");
                 });
 
-            modelBuilder.Entity("Student_Management_Tool.Models.Student", b =>
+            modelBuilder.Entity("Student_Management_Tool.Models.Öğrenci", b =>
                 {
-                    b.Navigation("Lessons");
+                    b.Navigation("Dersler");
                 });
 #pragma warning restore 612, 618
         }
